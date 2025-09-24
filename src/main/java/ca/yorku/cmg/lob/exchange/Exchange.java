@@ -66,7 +66,7 @@ public class Exchange {
 			return (false);
 		}
 
-		//Put in pos the position that the trader mentioned in the order has in the security mentioned in the order
+		//Put in pos the position that the trader mentioned in the order has in the security mentioned in the order.
 		int pos = ___________________________________;
 		//Get the balance the trader has with the exchange
 		long bal = __________________________________;
